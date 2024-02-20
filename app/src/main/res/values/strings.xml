@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppUno</string>
+    <string name="user">Bienvenid@</string>
+    <string name="btn1">Login</string>
+    <string name="btn2">Ingresar</string>
+    <string name= "Send">Enviar</string>
+    <string name="title_activity_pantalla_two">PantallaTwo</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
+
